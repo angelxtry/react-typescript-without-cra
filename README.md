@@ -4,7 +4,6 @@ React + TypeScript + Webpack 설정
 
 ## 사용 중인 loader
 
-- ts-loader
 - css-loader
 - style-loader
 - file-loader
